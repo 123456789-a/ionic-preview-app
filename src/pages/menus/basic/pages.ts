@@ -16,7 +16,7 @@ import { App, MenuController } from 'ionic-angular';
   </ion-navbar>
 </ion-header>
 <ion-content padding>
-  <button ion-button block menuToggle>Toggle Menu</button>
+  <button ion-button block menuToggle>Menu</button>
 </ion-content>
 `
 })
@@ -34,7 +34,7 @@ export class BasicPage {
       <ion-icon name='menu'></ion-icon>
     </button>
     <ion-title>
-      Menus
+     Imges
     </ion-title>
   </ion-navbar>
 </ion-header>
@@ -53,7 +53,7 @@ export class PageOne { }
       <ion-icon name='menu'></ion-icon>
     </button>
     <ion-title>
-      Friends
+      Videos
     </ion-title>
   </ion-navbar>
 </ion-header>
@@ -72,7 +72,7 @@ export class PageTwo { }
       <ion-icon name='menu'></ion-icon>
     </button>
     <ion-title>
-      Events
+      Songs
     </ion-title>
   </ion-navbar>
 </ion-header>
